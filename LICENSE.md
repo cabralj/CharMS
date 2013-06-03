@@ -1,4 +1,7 @@
-CharMS is a Character Management System for games and narration. 
+CharMS 
+===
+Character Management System for Games and Narration.
+
 
 Copyright (C) 2012  John Cabral 
 
